@@ -1,6 +1,6 @@
 class okay{
 
-public static void main(strings[] args){
+public static void main(string[] args){
 System.out.println("hi bro");
 }
 }
